@@ -1,0 +1,54 @@
+#portfolio {
+	padding: 5rem 0;
+	background: #334 center center no-repeat;
+	background-size: cover;
+	color: white;
+	height: 100%;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.button {
+	padding: 5rem 0;
+}
+
+#about {
+	background: #222 url('web_image2.jpg') center center no-repeat;
+	background-size: cover;
+	height: 100%;
+	padding: 3.5rem;
+
+}
+
+
+
+.about-text {
+	background: rgba(0,0,0,0.8);
+	color: white;
+	padding: 3.5rem;
+}
+
+.navbar {
+	background: #334;
+	color: white;
+}
+
+
+nav.change {
+	background: #334;
+	background-color: transparent;
+   	background: transparent;
+   	border-color: transparent;
+   	color: rgba(0,0,0,0.5);	
+}
+
+
+
+
+
+
+
+
+
