@@ -1,6 +1,6 @@
 #portfolio {
 	padding: 5rem 0;
-	background: #334 center center no-repeat;
+	background: #222 url('background.png') center center no-repeat;
 	background-size: cover;
 	color: white;
 	height: 100%;
@@ -10,30 +10,84 @@
 	align-items: center;
 }
 
+
+
 .button {
 	padding: 5rem 0;
 }
 
-#about {
-	background: #222 url('web_image2.jpg') center center no-repeat;
+/*#freeworld {
+	background: url('images/city.png') center center no-repeat;
+	background-size: cover;
+	height: 100%;
+	padding: 3.5rem;
+
+}*/
+
+#chat {
+	background: #A3CDFE center center no-repeat;
 	background-size: cover;
 	height: 100%;
 	padding: 3.5rem;
 
 }
 
-
-
-.about-text {
-	background: rgba(0,0,0,0.8);
-	color: white;
-	padding: 3.5rem;
+div.image {
+	content: url('images/Homefeed.png');
+	position: absolute;
+    right: 570px;
+    top: 40px;
+    height: 500px;
 }
 
-.navbar {
-	background: #334;
+div.chat-image {
+	content: url('images/chat.png');
+	position: absolute;
+    right: 570px;
+    top: 40px;
+    height: 500px;
+}
+
+div.paragraph2 {
 	color: white;
 }
+
+.freeworld-text {
+	color: white;
+	padding: 13rem;
+	padding-left: 0rem;
+
+}
+
+.chat-text {
+	color: white;
+	padding: 13rem;
+	padding-left: 0rem;
+
+}
+
+#contact {
+	padding: 5rem 0;
+	background: #DADADA center center no-repeat;
+	background-size: cover;
+	color: white;
+	height: 100%;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+div.contact-text {
+	padding-top: 200;
+	color: #4A4A4A;
+}
+
+div.ending {
+	padding-top: 125;
+}
+
+
 
 
 nav.change {
@@ -43,6 +97,10 @@ nav.change {
    	border-color: transparent;
    	color: rgba(0,0,0,0.5);	
 }
+
+
+
+
 
 
 

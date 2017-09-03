@@ -1,0 +1,72 @@
+<html lang="en">
+  <head>
+    
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="website.css">
+
+  </head>
+  <body>
+
+
+
+        <!-- Jquery -->
+    
+    <!-- jQuery first, then Tether, then Bootstrap JS. -->
+
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="js/bootstrap.min.js"></script> 
+
+
+    
+
+    <!--custom jquery-->
+    <script src="change.js"></script>
+    <script src="highlight.js"></script>
+    
+
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <script>
+        $(document).ready(function(){
+          $("#link1").click(function(){
+            $path=$("#portfolio").offset().top;
+
+            $('body').animate({scrollTop:$path}, 1000);
+          });
+
+          $("#link2").click(function(){
+            $path=$("#freeworld").offset().top;
+
+            $('body').animate({scrollTop:$path}, 1000);
+          });
+
+          $("#link3").click(function(){
+            $path=$("#contact").offset().top;
+
+            $('body').animate({scrollTop:$path}, 1000);
+          });
+
+          $("#link4").click(function(){
+            $path=$("#freeworld").offset().top;
+
+            $('body').animate({scrollTop:$path}, 1000);
+          });
+        });
+
+    </script>
+
+  
+
+
+    
+
+  </body>
+</html>
