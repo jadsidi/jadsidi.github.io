@@ -35,10 +35,7 @@
 div.image {
 	content: url('images/Homefeed.png');
 	display: block;
-    margin: auto;
-    width: 40%;
-
-
+    margin: 0 auto;
 }
 
 div.chat-image {
