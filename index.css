@@ -33,11 +33,9 @@
 }
 
 div.image {
-	content: url('images/Homefeed.png');
-	position: absolute;
-    right: 570px;
-    top: 40px;
-    height: 500px;
+	content: url('images/Homefeed.png') center center no-repeat;
+
+
 }
 
 div.chat-image {
