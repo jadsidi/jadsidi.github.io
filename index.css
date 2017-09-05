@@ -40,7 +40,6 @@ div.image {
     height: 500px;
 }
 
-
 div.chat-image {
 	content: url('images/chat.png');
 	position: absolute;
