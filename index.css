@@ -38,9 +38,6 @@ div.image {
     margin: 0 auto;
 }
 
-.carousel-inner img {
-  margin: auto;
-}
 
 div.chat-image {
 	content: url('images/chat.png');
