@@ -31,14 +31,14 @@
 	padding: 3.5rem;
 
 }
-
+/*
 div.image {
 	content: url('images/Homefeed.png');
 	position: absolute;
     right: 570px;
     top: 40px;
     height: 500px;
-}
+}*/
 
 div.chat-image {
 	content: url('images/chat.png');
