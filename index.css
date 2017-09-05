@@ -34,8 +34,7 @@
 
 div.image {
 	content: url('images/Homefeed.png');
-	display: block;
-    margin: 0 auto;
+	margin: 0px auto;
 }
 
 
