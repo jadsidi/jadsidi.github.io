@@ -70,24 +70,17 @@ div.paragraph2 {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-
 }
 
 div.contact-text {
 	padding-top: 200;
 	color: #4A4A4A;
-	margin: 0 auto;
 }
 
 div.ending {
 	padding-top: 125;
     bottom: 0;
     left: 0;
-    text-align: center;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-
 }
 
 
@@ -98,7 +91,7 @@ nav.change {
 	background-color: transparent;
    	background: transparent;
    	border-color: transparent;
-   	color: black;	
+   	color: rgba(0,0,0,0.5);	
 }
 
 
