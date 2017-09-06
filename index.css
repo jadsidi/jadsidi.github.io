@@ -50,6 +50,7 @@ div.paragraph2 {
 
 .freeworld-text {
 	color: white;
+
 }
 
 .chat-text {
@@ -78,6 +79,8 @@ div.contact-text {
 
 div.ending {
 	padding-top: 125;
+    bottom: 0;
+    left: 0;
 }
 
 
