@@ -1,47 +1,50 @@
 #first
 {
-	padding: 2rem;
+	padding: 3rem;
 }
 
 #second
 {
-	padding: 2rem;
+	padding: 3rem;
 }
 
 #third
 {
-	padding: 2rem;
+	padding: 3rem;
 }
 
 #fourth
 {
-	padding: 2rem;
+	padding: 3rem;
 }
 
 #fifth
 {
-	padding: 2rem;
+	padding: 3rem;
 }
 
 #sixth
 {
-	padding: 2rem;
+	padding: 3rem;
 }
 
 #seventh
 {
-	padding: 2rem;
+	padding: 3rem;
 }
 
 #eith
 {
-	padding: 2rem;
+	padding: 3rem;
 }
 
 #title{
-	padding: 2rem;
+	padding-top: 2rem;
 	color: white;
+	text-align: center
 }
+
+
 
 h1 {
 	font-weight: bold;

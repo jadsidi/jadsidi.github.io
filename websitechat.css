@@ -1,34 +1,37 @@
 #first
 {
-	padding: 2rem;
+	padding: 3rem;
 }
 
 #second
 {
-	padding: 2rem;
+	padding: 3rem;
 }
 
 #third
 {
-	padding: 2rem;
+	padding: 3rem;
 }
 
 #fourth
 {
-	padding: 2rem;
+	padding: 3rem;
 }
 
 h1 {
 	font-weight: bold;
-	
+
 }
 
 
 
+
+
 #title{
-	padding: 2rem;
+	padding: .7rem;
 	background-color: #4A90E2;
 	color: white;
+	text-align: center
 }
 
 body{ 
