@@ -40,7 +40,6 @@
 
 #title{
 	padding: 2rem;
-	background-color: #00293C;
 	color: white;
 }
 
@@ -50,5 +49,5 @@ h1 {
 }
 
 body{ 
-	background-color: #00293C;
+	background: url('images/city.png');
 }
