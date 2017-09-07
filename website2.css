@@ -40,10 +40,15 @@
 
 #title{
 	padding: 2rem;
-	background-color: #363237;
-	color: #D09683;
+	background-color: #00293C;
+	color: white;
+}
+
+h1 {
+	font-weight: bold;
+	
 }
 
 body{ 
-	background-color: #4A4A4A;
+	background-color: #00293C;
 }

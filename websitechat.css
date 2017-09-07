@@ -18,12 +18,17 @@
 	padding: 2rem;
 }
 
+h1 {
+	font-weight: bold;
+	
+}
+
 
 
 #title{
 	padding: 2rem;
 	background-color: #4A90E2;
-	color: #EFEFEF;
+	color: white;
 }
 
 body{ 
