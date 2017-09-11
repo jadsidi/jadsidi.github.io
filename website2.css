@@ -1,47 +1,72 @@
 #first
 {
 	padding: 3rem;
+	padding-left: 5rem;
 }
 
 #second
 {
 	padding: 3rem;
+	padding-left: 5rem;
 }
+
+#f
+{
+	padding: .1rem;
+	padding-left: 5rem;
+}
+
+#lone
+{
+	padding-top: 2rem;
+	padding-left: 5rem;
+}
+
 
 #third
 {
-	padding: 3rem;
+	padding: .1rem;
+	padding-left: 5rem;
 }
 
-#fourth
-{
-	padding: 3rem;
-}
 
-#fifth
-{
-	padding: 3rem;
-}
-
-#sixth
-{
-	padding: 3rem;
-}
-
-#seventh
-{
-	padding: 3rem;
-}
-
-#eith
-{
-	padding: 3rem;
-}
 
 #title{
 	padding-top: 2rem;
+	color: #3C4F5E;
+	text-align: left;
+	padding-left: 5rem;
+}
+
+#task{
+	padding-top: 2rem;
+	color: grey;
+	text-align: left;
+	padding-left: 5rem;
+}
+
+#wire{
+	padding-top: 2rem;
+	color: grey;
+	text-align: left;
+	padding-left: 5rem;
+}
+
+#design{
+	padding-top: 2rem;
+	color: grey;
+	text-align: left;
+	padding-left: 5rem;
+}
+
+
+#intro{
+	padding-top: 2rem;
+	padding-bottom: 2rem;
 	color: white;
-	text-align: center
+	text-align: left;
+	padding-left: 5rem;
+	background-color: #5E94BC;
 }
 
 
@@ -52,5 +77,5 @@ h1 {
 }
 
 body{ 
-	background: url('images/city.png');
+	background: white;
 }
